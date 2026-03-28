@@ -83,7 +83,7 @@ php spark migrate
 ## 2. Start the backend
 
 ```bash
-cd /Users/armaanbudhiraja/Documents/Playground/interview-task/backend
+cd backend
 php spark serve --host 127.0.0.1 --port 8080
 ```
 
@@ -94,7 +94,7 @@ Backend URL:
 ## 3. Start the frontend
 
 ```bash
-cd /Users/armaanbudhiraja/Documents/Playground/interview-task/frontend
+cd frontend
 cp .env.example .env
 npm install
 npm run dev
