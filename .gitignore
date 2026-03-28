@@ -1,0 +1,10 @@
+backend/.env
+backend/vendor/
+backend/writable/cache/
+backend/writable/debugbar/
+backend/writable/logs/
+backend/writable/session/
+backend/writable/uploads/
+frontend/.env
+frontend/dist/
+frontend/node_modules/
